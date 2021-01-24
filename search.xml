@@ -1,75 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo 写一篇博客</title>
-    <url>/37981.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>欢迎来到 <a href="https://hexo.io/">Hexo</a>！这是您的第一篇文章。查看<a href="(https://hexo.io/docs/)">文档</a>以获取更多信息。如果在使用Hexo时遇到任何问题，可以在<a href="%5D(https://hexo.io/docs/troubleshooting.html)">故障排除</a>中找到答案，或者可以在<a href="https://github.com/hexojs/hexo/issues">GitHub</a>上问我。 </p>
-<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新文章"><a href="#创建一篇新文章" class="headerlink" title="创建一篇新文章"></a>创建一篇新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>更多信息：<a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
-<p>更多信息： <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
-<p>更多信息： <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-<p>更多信息： <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>默认</category>
-      </categories>
-      <tags>
-        <tag>默认</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo 实现悬浮注释</title>
-    <url>/9929.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><a id="more"></a>
-
-<h2 id="模块安装"><a href="#模块安装" class="headerlink" title="模块安装"></a>模块安装</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm i hexo-tag-hint</span><br></pre></td></tr></table></figure>
-<h2 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% hint &#39;body_text&#39; &#39;hint_text&#39; %&#125;</span><br></pre></td></tr></table></figure>
-
-
-<span style="border-bottom: 1px dashed #389fff;"><span class="hint--top hint--rounded hint--info" aria-label="hint_text" ontouchstart>body_text</span></span>
-
-<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p><a href="https://github.com/etigerstudio/hexo-tag-hint">https://github.com/etigerstudio/hexo-tag-hint</a></p>
-]]></content>
-      <categories>
-        <category>默认</category>
-      </categories>
-      <tags>
-        <tag>默认</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo 实现脚注</title>
-    <url>/37986.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h2><p>basic footnote<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="basic footnote content
-">[1]</span></a></sup><br>here is an inline footnote<sup id="fnref:2"><a href="#fn:2" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="inline footnote">[2]</span></a></sup><br>and another one<sup id="fnref:3"><a href="#fn:3" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="paragraph
-footnote
-content
-">[3]</span></a></sup><br>and another one<sup id="fnref:4"><a href="#fn:4" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="footnote content with some [markdown](https://en.wikipedia.org/wiki/Markdown)">[4]</span></a></sup></p>
-<a id="more"></a>
-
-<h2 id="模块安装"><a href="#模块安装" class="headerlink" title="模块安装"></a>模块安装</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm i hexo-reference</span><br></pre></td></tr></table></figure>
-<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p><a href="https://github.com/kchen0x/hexo-reference">https://github.com/kchen0x/hexo-reference</a></p>
-<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">basic footnote content<a href="#fnref:1" rev="footnote"> ↩</a></span></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">inline footnote<a href="#fnref:2" rev="footnote"> ↩</a></span></li><li id="fn:3"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">3.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">paragraph
-footnote
-content<a href="#fnref:3" rev="footnote"> ↩</a></span></li><li id="fn:4"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">4.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">footnote content with some <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a><a href="#fnref:4" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
-      <categories>
-        <category>默认</category>
-      </categories>
-      <tags>
-        <tag>默认</tag>
-      </tags>
-  </entry>
-  <entry>
     <title></title>
-    <url>/1.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><hr>
-<p>title:保护我方吃饼干</p>
-<hr>
-<p>zhaowowo.github.io</p>
-<p>我个人认为，在不违背已知证据的基础上，不同理论之争是种价值之争。也就是说，处于伦理的范畴。科学家有共同的伦理准则，就是无条件的求知，追求客观真理。对科学理论的评价，归根结底是在这个准则上的争议——这其中有很多细节我们并不知道。我倒不以为科学和艺术应该走向同一个方向。作为艺术家，我个人的全部努力都放在求新求异上，我自知这样子来干科学是完全不行的。科学家的伦理原则倒是个很有趣的问题。罗素说：不计成败利钝地追求客观真理。我认为人对客观真理是有感知力的，所以我绝不同意在科学问题上可以自由的来。</p>
-<h6 id="我个人认为，在不违背已知证据的基础上，不同理论之争是种价值之争。也就是说，处于伦理的范畴。科学家有共同的伦理准则，就是无条件的求知，追求客观真理。对科学理论的评价，归根结底是在这个准则上的争议——这其中有很多细节我们并不知道。我倒不以为科学和艺术应该走向同一个方向。作为艺术家，我个人的全部努力都放在求新求异上，我自知这样子来干科学是完全不行的。科学家的伦理原则倒是个很有趣的问题。罗素说：不计成败利钝地追求客观真理。我认为人对客观真理是有感知力的，所以我绝不同意在科学问题上可以自由的来。"><a href="#我个人认为，在不违背已知证据的基础上，不同理论之争是种价值之争。也就是说，处于伦理的范畴。科学家有共同的伦理准则，就是无条件的求知，追求客观真理。对科学理论的评价，归根结底是在这个准则上的争议——这其中有很多细节我们并不知道。我倒不以为科学和艺术应该走向同一个方向。作为艺术家，我个人的全部努力都放在求新求异上，我自知这样子来干科学是完全不行的。科学家的伦理原则倒是个很有趣的问题。罗素说：不计成败利钝地追求客观真理。我认为人对客观真理是有感知力的，所以我绝不同意在科学问题上可以自由的来。" class="headerlink" title="##### 我个人认为，在不违背已知证据的基础上，不同理论之争是种价值之争。也就是说，处于伦理的范畴。科学家有共同的伦理准则，就是无条件的求知，追求客观真理。对科学理论的评价，归根结底是在这个准则上的争议——这其中有很多细节我们并不知道。我倒不以为科学和艺术应该走向同一个方向。作为艺术家，我个人的全部努力都放在求新求异上，我自知这样子来干科学是完全不行的。科学家的伦理原则倒是个很有趣的问题。罗素说：不计成败利钝地追求客观真理。我认为人对客观真理是有感知力的，所以我绝不同意在科学问题上可以自由的来。"></a>##### 我个人认为，在不违背已知证据的基础上，不同理论之争是种价值之争。也就是说，处于伦理的范畴。科学家有共同的伦理准则，就是无条件的求知，追求客观真理。对科学理论的评价，归根结底是在这个准则上的争议——这其中有很多细节我们并不知道。我倒不以为科学和艺术应该走向同一个方向。作为艺术家，我个人的全部努力都放在求新求异上，我自知这样子来干科学是完全不行的。科学家的伦理原则倒是个很有趣的问题。罗素说：不计成败利钝地追求客观真理。我认为人对客观真理是有感知力的，所以我绝不同意在科学问题上可以自由的来。</h6>]]></content>
+    <url>/0.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="保护我方吃饼干"><a href="#保护我方吃饼干" class="headerlink" title="保护我方吃饼干"></a>保护我方吃饼干</h1><h3 id="阴影魔障"><a href="#阴影魔障" class="headerlink" title="阴影魔障"></a>阴影魔障</h3><p>没关系你也不用给我机会<br>反正我还有一生可以浪费<br>我就是剩这么一点点倔 称得上 我的优点<br>没关系你也不用对我惭愧<br>也许我根本喜欢被你浪费<br>就算我再去努力爱上谁 到头来 也是白费<br>不如永远跟你耗 来得快乐 对不对</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://s3.ax1x.com/2021/01/24/sbKn9H.png" alt="屏幕截图 2021-01-24 152052"></p>
+]]></content>
   </entry>
 </search>
