@@ -205,314 +205,98 @@
       </tags>
   </entry>
   <entry>
-    <title></title>
-    <url>/0.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><!DOCTYPE html>
-<html>
-<head>
+    <title>天美传媒系列</title>
+    <url>/37989.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>👏  <strong>还在继续上传中……..</strong> </p>
+<a id="more"></a>
 
-<pre><code>&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
-&lt;title&gt;zhaowa.ys168.com&lt;/title&gt;
-&lt;link href=&quot;http://zy.ys168.com/f_zy/js/ys.css?bbh=1136&quot; rel=&quot;stylesheet&quot; /&gt;
-&lt;base target=&quot;ys_ck&quot; /&gt;
-&lt;style type=&quot;text/css&quot;&gt;
-    div, td &#123; box-sizing: border-box; &#125;
-   .xlj a:focus,.xwj a:focus &#123;
-        text-decoration:underline;
-    &#125;
-&lt;/style&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-    document.domain = qdhost();
-    function qdhost() &#123; var x = document.domain.split(&quot;.&quot;); if (x.length == 1) return document.domain; if (x.length == 3) return x[1] + &quot;.&quot; + x[2]; return x[2] + &quot;.&quot; + x[3]; &#125;
-    var _kj;_kj=&#123;bbh:&#39;1136&#39;,jbmc:&#39;免费型空间&#39;,jb:&#39;S&#39;,xdwjsl:60,dlmc:&#39;zhaowa&#39;,qxml:false,qxly:0,ffpd:false,qxxzjl:false,qxyy:false,qxzx:false,pdgxtx:true,llcx:false,_dlmm:&#39;11e1c7e8dd&#39;,fwgq:false,zydz:&#39;http://zy.ys168.com/f_zy/&#39;,ccym:&#39;http://cg.ys168.com&#39;,jzscxx:&#39;&#39;,_cz:&#39;PSRI3RTm1mxc5g2ZC95u3Y+DX8b9UUHaT6rbqVIinvBIDAZT7gQmQbpDNNVxnB+yusvqwzqnGOELXEc7WVvNj+E9fz1xbOxRlbrYjOx0g1n5lmWM1JqwpSB9LQ4EngnP&#39;&#125;;
-    var qdcx = &#123;
-        jsq: 0, ok: false,
-        yx: function () &#123;
-            this.jsq += 1;
-            if (this.jsq &lt; 2 || this.ok) &#123; return; &#125;
-            if (!frxcx.XMLHttp) &#123; return; &#125;
-            if (!_ck || !_lyb) &#123; return; &#125;
-            this.ok = true;
-            _ym.cssz();
-            _ev.cf(&quot;0&quot;, null, &quot;页面起动&quot;);
-        &#125;
-    &#125;;
-    var _ck, _lyb, _cs;
-    var cn = &quot;1&quot;;
-    function mlpxdk() &#123;
-        if (!_yh.gly) &#123; alert(&quot;请在管理区登录后进行设置。&quot;); return;&#125;
-        _ck.set(&#39;ck/kjsz.html&#39;, &#123; w: 500, h: 430 &#125;).open([window.location.href,&#39;mlpx&#39;]);
-    &#125;
-&lt;/script&gt;</code></pre>
-</head>
-<body class="fgg1" style="min-width: 500px; min-height: 300px;">
-    <iframe id="ys_ck" name="ys_ck" src="javascript:;" style="display: none;"></iframe>
-    <iframe name="frxcx" id="frxcx" src="http://cg.ys168.com/f_ht/ajcx/000ht.html?bbh=1136" style="display: none;"></iframe>
-    <div class="ystop tdtop" id="idtop" style="min-height: 70px; max-height: 300px; width: 100%; vertical-align: top; padding: 5px;">
-
-<pre><code>    &lt;h1 id=&quot;kjbt&quot;&gt;zhaowa.ys168.com&lt;/h1&gt;
-    &lt;div id=&quot;sylj&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;table style=&quot;border: 0;margin-top:5px;&quot;&gt;
-    &lt;tr&gt;
-        &lt;td style=&quot;width: 255px; vertical-align: top; padding-left: 5px; padding-right: 5px;&quot;&gt;
-            &lt;div id=&quot;kj_left&quot; style=&quot;&quot;&gt;
-                &lt;!--操作区开始--&gt;
-                &lt;div id=&quot;idczq&quot; style=&quot;position: relative; padding-top: 27px; height: 174px; vertical-align: top;&quot;&gt;
-                    &lt;div id=&quot;ysmenu&quot; class=&quot;cdq&quot; style=&quot;width: 255px;&quot;&gt;
-                        &lt;div class=&quot;dqcd&quot; style=&quot;margin-left: 5px;&quot;&gt;留 言&lt;/div&gt;
-                        &lt;div&gt;增加目录&lt;/div&gt;
-                        &lt;div&gt;上传文件&lt;/div&gt;
-                        &lt;div&gt;管理区&lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div id=&quot;ysmenu1&quot; style=&quot;width: 255px; height: 147px; border: 1px solid #2e2e2e&quot;&gt;
-                        &lt;div class=&quot;cdnrq&quot; style=&quot;display: block;&quot;&gt;
-                            &lt;p&gt;
-                                姓名:&lt;input type=&quot;text&quot; id=&quot;xm&quot; size=&quot;8&quot; class=&quot;tx3&quot; /&gt;
-                                公开:&lt;input type=&quot;checkbox&quot; id=&quot;bdgkpdlyb&quot; checked=&quot;checked&quot; /&gt;
-                                &lt;img border=&quot;0&quot; src=&quot;http://zy.ys168.com/f_zy/tp/sty/00zxz1.gif&quot; width=&quot;15&quot; height=&quot;15&quot; onclick=&quot;_lyb.qh(&#39;z&#39;);&quot; style=&quot;cursor: pointer;&quot; /&gt;
-                                &lt;img border=&quot;0&quot; id=&quot;t_bq&quot; src=&quot;http://zy.ys168.com/f_zy/tp/face2/f1.gif&quot; width=&quot;15&quot; height=&quot;15&quot; /&gt;
-                                &lt;img border=&quot;0&quot; src=&quot;http://zy.ys168.com/f_zy/tp/sty/00zxy1.gif&quot; width=&quot;15&quot; height=&quot;15&quot; onclick=&quot;_lyb.qh(&#39;y&#39;);&quot; style=&quot;cursor: pointer;&quot; /&gt;
-                                &lt;input type=&quot;hidden&quot; id=&quot;bdbq&quot; value=&quot;1&quot; /&gt;
-                            &lt;/p&gt;
-                            &lt;p&gt;
-                                &lt;textarea id=&quot;nr&quot; style=&quot;width: 214px; height: 53px;&quot; class=&quot;tx3&quot;&gt;&lt;/textarea&gt;
-                            &lt;/p&gt;
-                            &lt;p&gt;
-                                &lt;label for=&quot;lyb_gly&quot; title=&quot;选中后以管理员身份进行留言。显示有特殊标识&quot;&gt;以管理员身份&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;lyb_gly&quot; title=&quot;选中后以管理员身份进行留言。显示有特殊标识&quot; /&gt;
-                                &lt;label for=&quot;lyb_zd&quot; title=&quot;选中后此留言将置顶显示&quot;&gt;置顶&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;lyb_zd&quot; title=&quot;选中后此留言将置顶显示&quot; /&gt;
-                                &lt;input type=&quot;button&quot; value=&quot;提交留言&quot; class=&#39;BT2&#39; id=&quot;buly&quot; /&gt;
-                            &lt;/p&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;cdnrq&quot; style=&quot;display: none;&quot;&gt;
-                            &lt;p style=&quot;margin-top: 15px; font-size: 14px;&quot;&gt;&lt;/p&gt;
-                            &lt;p style=&quot;margin-top: 15px;&quot;&gt;
-                                &lt;input style=&quot;width: 80px; height: 23px;&quot; type=&quot;button&quot; id=&quot;sutjbt&quot; value=&quot; 增加目录 &quot; class=&#39;BT2&#39; /&gt;
-                                &lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;javascript:;&quot; onclick=&quot;mlpxdk();&quot;&gt;&lt;span style=&quot;color:#008000;&quot;&gt;设置目录排序方式&lt;/span&gt;&lt;/a&gt;
-                            &lt;/p&gt;
-                        &lt;/div&gt;
-
-                        &lt;div class=&quot;cdnrq&quot; style=&quot;display: none;&quot;&gt;
-                            &lt;div style=&quot;display: block&quot;&gt;
-                                &lt;div style=&quot;border-bottom: 1px dashed black; text-align: center; margin-bottom: 10px;&quot;&gt;
-                                    &lt;input type=&quot;radio&quot; id=&quot;wjlx1&quot; name=&quot;r1&quot; checked=&quot;checked&quot; onclick=&quot;_ym.changelx(1);&quot; style=&quot;cursor: pointer;&quot; /&gt;&lt;label for=&quot;wjlx1&quot; style=&quot;cursor: pointer;&quot;&gt;上传文件&lt;/label&gt;
-                                    &lt;input type=&quot;radio&quot; id=&quot;wjlx2&quot; name=&quot;r1&quot; onclick=&quot;_ym.changelx(2)&quot; style=&quot;cursor: pointer;&quot; /&gt;&lt;label for=&quot;wjlx2&quot; style=&quot;cursor: pointer;&quot;&gt;链接&lt;/label&gt;
-                                    &lt;input type=&quot;radio&quot; id=&quot;wjlx4&quot; name=&quot;r1&quot; onclick=&quot;_ym.changelx(4)&quot; style=&quot;cursor: pointer;&quot; /&gt;&lt;label for=&quot;wjlx4&quot; style=&quot;cursor: pointer;&quot;&gt;文字&lt;/label&gt;
-                                    &lt;input type=&quot;radio&quot; id=&quot;wjlx3&quot; name=&quot;r1&quot; onclick=&quot;_ym.changelx(3)&quot; style=&quot;cursor: pointer;&quot; /&gt;&lt;label for=&quot;wjlx3&quot; style=&quot;cursor: pointer;&quot;&gt;子目录&lt;/label&gt;
-                                &lt;/div&gt;
-                                &lt;div id=&quot;idwj1&quot; style=&quot;display: block; text-align: center;&quot;&gt;
-
-                                    &lt;button onclick=&quot;_ym.kqsc();&quot;&gt;上传文件&lt;/button&gt;
-                                &lt;/div&gt;
-                                &lt;div id=&quot;idwj2&quot; style=&quot;display: none;&quot;&gt;
-                                    &lt;div style=&quot;text-align:left;padding-left:15px;&quot;&gt;链接标题:(&lt;span id=&quot;shuru3&quot;&gt;0&lt;/span&gt;/50)
-                                        &lt;br /&gt;&lt;input type=&quot;text&quot; id=&quot;scbt2&quot; class=&quot;tx3&quot; size=&quot;30&quot; onkeypress=&quot;if (window.event.keyCode==13)&#123;$id(&#39;teljdz&#39;).focus();return false;&#125;&quot; placeholder=&quot;链接显示文字。必填项。&quot; /&gt;
-                                    &lt;/div&gt;
-                                    &lt;div style=&quot;text-align:left;padding-left:15px;&quot;&gt;链接网址:(&lt;span id=&quot;shuru4&quot;&gt;0&lt;/span&gt;/200)
-                                        &lt;br /&gt;&lt;input type=&quot;text&quot; id=&quot;teljdz&quot; class=&quot;tx3&quot; size=&quot;30&quot; onkeypress=&quot;if (window.event.keyCode==13)&#123;$id(&#39;bulj&#39;).click();return false;&#125;&quot; placeholder=&quot;链接的网址，必须填写完整网址。&quot; /&gt;
-                                    &lt;/div&gt;
-                                    &lt;p style=&quot;text-align: center;&quot;&gt;
-                                        &lt;input type=&quot;button&quot; value=&quot;增加链接&quot; onclick=&quot;_wj.addlj(0);&quot; class=&#39;BT2&#39; id=&quot;bulj&quot; /&gt;
-                                    &lt;/p&gt;
-                                &lt;/div&gt;
-                                &lt;div id=&quot;idwj4&quot; style=&quot;display: none;&quot;&gt;
-                                    &lt;div style=&quot;text-align:left;padding-left:15px;&quot;&gt;文字标题:(&lt;span id=&quot;shuru1&quot;&gt;0&lt;/span&gt;/50)
-                                        &lt;br /&gt;&lt;input type=&quot;text&quot; id=&quot;scbt4&quot; class=&quot;tx3&quot; size=&quot;30&quot; onkeypress=&quot;if (window.event.keyCode==13)&#123;$id(&#39;tewb&#39;).focus();return false;&#125;&quot; placeholder=&quot;文本标题，必填项&quot; /&gt;
-                                    &lt;/div&gt;
-                                    &lt;div style=&quot;text-align:left;padding-left:15px;&quot;&gt;文字内容:(&lt;span id=&quot;shuru2&quot;&gt;0&lt;/span&gt;/200)
-                                        &lt;br /&gt;&lt;input type=&quot;text&quot; id=&quot;tewb&quot; class=&quot;tx3&quot; size=&quot;30&quot; onkeypress=&quot;if (window.event.keyCode==13)&#123;$id(&#39;buwz&#39;).click();return false;&#125;&quot; placeholder=&quot;显示在标题后面，必填项&quot; /&gt;
-                                    &lt;/div&gt;
-                                    &lt;p style=&quot;text-align: center;&quot;&gt;
-                                        &lt;input type=&quot;button&quot; value=&quot;增加文字项&quot; onclick=&quot;_wj.addlj(1);&quot; class=&#39;BT2&#39; id=&quot;buwz&quot; /&gt;
-                                    &lt;/p&gt;
-                                &lt;/div&gt;
-                                &lt;div id=&quot;idwj3&quot; style=&quot;display: none;&quot;&gt;
-                                    &lt;p&gt;子目录名:&lt;input type=&quot;text&quot; id=&quot;tezml&quot; class=&quot;tx3&quot; size=&quot;20&quot; onkeypress=&quot;if (window.event.keyCode==13)&#123;$id(&#39;buzml&#39;).click();return false;&#125;&quot; /&gt;&lt;/p&gt;
-                                    &lt;p style=&quot;text-align: center;&quot;&gt;
-                                        &lt;input type=&quot;button&quot; value=&quot;增加子目录&quot; onclick=&quot;_zml.cj();&quot; class=&#39;BT2&#39; id=&quot;buzml&quot; /&gt;
-                                    &lt;/p&gt;
-                                    &lt;p style=&quot;margin-top:20px;margin-left:20px;&quot;&gt;支持增加多级子目录。&lt;/p&gt;
-                                &lt;/div&gt;
-
-                            &lt;/div&gt;
-                            &lt;div style=&quot;display: none; padding-top: 15px; font-size: 10pt;&quot;&gt;
-                                &lt;p style=&quot;font-size: 14px;&quot;&gt;
-                                    请先在右侧打开一个目录&lt;br /&gt;
-                                    或新建一个目录
-
-                                &lt;/p&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;cdnrq&quot; style=&quot;display: none;&quot;&gt;
-                            &lt;div id=&#39;glyq1&#39; style=&quot;display: block;&quot;&gt;
-                                &lt;p&gt;
-                                    管理密码:&lt;input type=&quot;password&quot; id=&quot;bdglymm&quot; onkeypress=&quot;if (window.event.keyCode==13)&#123;sutjgl.click();&#125;&quot; class=&quot;tx3&quot; style=&quot;height: 18px; width: 50px&quot; /&gt;
-                                    &lt;input type=&quot;button&quot; value=&quot;登录&quot; onclick=&quot;_yh.dl(&#39;&#39;);&quot; class=&#39;BT2&#39; id=&quot;sutjgl&quot; /&gt;
-                                    &lt;input type=&quot;button&quot; value=&quot;空间设置&quot; onclick=&quot;alert(&#39;请在管理区登录后进行设置&#39;);&quot; class=&quot;BT2&quot; style=&quot;text-decoration: line-through;&quot; /&gt;
-                                &lt;/p&gt;
-                                &lt;p&gt;&lt;font color=&#39;#008000&#39;&gt;注:管理员登录后可以编辑、删除空间内文件、目录、留言等。&lt;/font&gt;&lt;/p&gt;
-                            &lt;/div&gt;
-                            &lt;div id=&#39;glyq2&#39; style=&quot;display: none;&quot;&gt;
-                                &lt;p&gt;空间级别:&lt;span id=&quot;L_kjjb&quot;&gt;免费型空间(1000M)&lt;/span&gt;&lt;/p&gt;
-                                &lt;p&gt;到期日期:&lt;span id=&quot;L_fwdq&quot;&gt;未定&amp;nbsp;&amp;nbsp;&lt;a class=actuatorn href=&#39;http://www.ys168.com/ht/kjsj.aspx?dlmc=zhaowa&#39; target=_blank&gt;[升级空间]&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-                                &lt;p style=&quot;text-align: center;&quot;&gt;
-                                    &lt;input type=&quot;button&quot; value=&quot;空间设置&quot; onclick=&quot;_ck.set(&#39;ck/kjsz.html&#39;, &#123; w: 500, h: 430 &#125;).open([window.location.href,&#39;&#39;]);&quot; style=&quot;color: Blue;&quot; /&gt;
-                                    &lt;input type=&quot;button&quot; value=&quot;退出管理&quot; id=&#39;glytc&#39; class=&#39;bt2&#39; onclick=&quot;_yh.tcgl();&quot; /&gt;
-                                &lt;/p&gt;
-                                &lt;p style=&quot;margin-top:15px;&quot;&gt;
-                                    &lt;img src=&quot;http://zy.ys168.com/f_zy/tp/wh.gif&quot; width=&quot;14&quot; height=&quot;14&quot; /&gt;&lt;a class=&quot;jaml&quot; href=&quot;javascript:&quot; onclick=&quot;_ck.set(&#39;ck/bjsm.html&#39;, &#123; w: 670, h: 660,v:&#39;0.1&#39; &#125;).open();&quot;&gt;如何编辑删除数据&lt;/a&gt;
-                                    &lt;img src=&quot;http://zy.ys168.com/f_zy/tp/go.gif&quot; width=&quot;16&quot; height=&quot;16&quot; /&gt;&lt;a href=&quot;http://www.ys168.com/ht/login.aspx?dlmc=zhaowa&quot; class=&quot;jaml&quot; target=&quot;_blank&quot;&gt;进入空间后台&lt;/a&gt;
-                                &lt;/p&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div style=&quot;height: 5px;&quot;&gt;&lt;/div&gt;
-                &lt;div id=&quot;lyz&quot; class=&quot;lynrc&quot; style=&quot;width:255px;&quot;&gt;
-                    &lt;div id=&quot;lynr&quot;&gt;
-                        &lt;label&gt;正在读取...&lt;/label&gt;
-                    &lt;/div&gt;
-                    &lt;div style=&quot;text-align: right; margin-top: 5px; margin-right: 5px;&quot;&gt;
-                        留言总数：&lt;label id=&quot;ly_zs&quot;&gt;&lt;/label&gt;，页数：&lt;label id=&quot;ly_dqys&quot;&gt;&lt;/label&gt;/&lt;label id=&quot;ly_zys&quot;&gt;&lt;/label&gt;
-                        &lt;div style=&quot;margin-top: 5px; margin-bottom: 5px;&quot;&gt;
-                            &lt;button class=&#39;bt2&#39; id=&quot;bu_ly1&quot;&gt;首页&lt;/button&gt;
-                            &lt;button class=&#39;bt2&#39; id=&quot;bu_ly2&quot;&gt;上页&lt;/button&gt;
-                            &lt;button class=&#39;bt2&#39; id=&quot;bu_ly3&quot;&gt;下页&lt;/button&gt;
-                            &lt;button class=&#39;bt2&#39; id=&quot;bu_ly4&quot;&gt;尾页&lt;/button&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div style=&quot;height: 5px;&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/td&gt;
-
-        &lt;td style=&quot;vertical-align: top; padding-right: 5px;&quot;&gt;
-
-            &lt;div id=&quot;kj_right&quot; style=&quot;width: 100%;&quot;&gt;
-                &lt;div class=&quot;ta_wjq&quot; style=&quot;height: 20px; padding-top: 2px;&quot;&gt;
-                    &lt;div style=&quot;float: right; width: 250px; text-align: right;&quot;&gt;
-                        空间:&lt;label id=&quot;kjz1&quot;&gt;1000&lt;/label&gt;M
-                剩余:&lt;label id=&quot;kjz2&quot;&gt;-&lt;/label&gt;M
-                &lt;span id=&quot;sp_zx&quot; style=&quot;display:none;&quot;&gt;在线:&lt;label id=&quot;zxrsts&quot; style=&quot;color: yellow;&quot;&gt;-&lt;/label&gt;人&lt;/span&gt;&amp;nbsp;
-                    &lt;/div&gt;
-                    &lt;div style=&quot;padding-left: 5px;&quot;&gt;
-                        目录列表
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div id=&quot;dzx&quot; style=&quot;min-height: 200px; overflow-y: scroll; width: 100%; border: 1px solid #000000;&quot;&gt;
-                    &lt;div id=&quot;zdy_wz0&quot; style=&quot;display: block; float: right;&quot;&gt;
-                        &lt;div id=&#39;idzdy&#39; class=&#39;yszdyq&#39; style=&quot;display: none;&quot;&gt;&lt;/div&gt;
-                        &lt;div id=&#39;idzdy1&#39; class=&#39;yszdyq&#39;&gt;&lt;div class=&#39;z_bt&#39;&gt;&lt;label style=&#39;float:Right;padding-right:5px;&#39;&gt;[&lt;a href=&#39;http://www.ys168.com/ht/ad.aspx&#39; target=&#39;_blank&#39;&gt;&lt;font color=&#39;white&#39;&gt;广告招商&lt;/font&gt;&lt;/a&gt;]  [&lt;a href=&#39;javascript:;&#39; onclick=&#39;gbgg();&#39;&gt;&lt;font color=&#39;white&#39;&gt;关闭&lt;/font&gt;&lt;/a&gt;]&lt;/label&gt;广告&lt;/div&gt;&lt;div class=&#39;z_bo&#39; style=&#39;padding-bottom:5px;&#39;&gt;&lt;ul style=&#39;line-height: 180%;&#39;&gt;&lt;li&gt;&lt;img border=&#39;0&#39; src=&#39;http://zy.ys168.com/f_zy/tp/wjlx/url.gif&#39; width=&#39;16&#39; height=&#39;16&#39;&gt;&lt;a href=&#39;http://www.488km.cn&#39; target=&#39;_blank&#39;&gt;488卡盟▉一张卡只赚一分钱&lt;/a&gt;&lt;li&gt;&lt;li&gt;&lt;img border=&#39;0&#39; src=&#39;http://zy.ys168.com/f_zy/tp/wjlx/url.gif&#39; width=&#39;16&#39; height=&#39;16&#39;&gt;&lt;a href=&#39;http://www.957km.com&#39; target=&#39;_blank&#39;&gt;▉▉▉绝地魔兽DNF卡盟▉▉▉&lt;/a&gt;&lt;li&gt;&lt;li&gt;&lt;img border=&#39;0&#39; src=&#39;http://zy.ys168.com/f_zy/tp/wjlx/url.gif&#39; width=&#39;16&#39; height=&#39;16&#39;&gt;&lt;a href=&#39;http://yufengip.ys168.com&#39; target=&#39;_blank&#39;&gt;找游戏项目、工作室资源》点我&lt;/a&gt;&lt;li&gt;&lt;li&gt;&lt;img border=&#39;0&#39; src=&#39;http://zy.ys168.com/f_zy/tp/wjlx/url.gif&#39; width=&#39;16&#39; height=&#39;16&#39;&gt;&lt;a href=&#39;http://www.wuyouiip.com&#39; target=&#39;_blank&#39;&gt;独享IP 单窗单IP 动静态免费测&lt;/a&gt;&lt;li&gt;&lt;li&gt;&lt;img border=&#39;0&#39; src=&#39;http://zy.ys168.com/f_zy/tp/wjlx/url.gif&#39; width=&#39;16&#39; height=&#39;16&#39;&gt;&lt;a href=&#39;http://www.rxpay88.com/&#39; target=&#39;_blank&#39;&gt;DNF魔兽原神天龙低价卡盟&lt;/a&gt;&lt;li&gt;&lt;li&gt;&lt;img border=&#39;0&#39; src=&#39;http://zy.ys168.com/f_zy/tp/wjlx/url.gif&#39; width=&#39;16&#39; height=&#39;16&#39;&gt;&lt;a href=&#39;http://www.ys168.com/tg&#39; target=&#39;_blank&#39;&gt;推广永硕E盘 获取分成&lt;/a&gt;&lt;li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div id=&quot;mainMenu&quot;&gt;
-                        &lt;ul id=&quot;menuList&quot;&gt;&lt;/ul&gt;
-                    &lt;/div&gt;
-                    &lt;div id=&quot;zdy_bz&quot;&gt;&lt;/div&gt;
-
-                    &lt;p id=&quot;sxts&quot; style=&quot;text-align: right;&quot;&gt;
-                        &lt;span class=&quot;s1&quot; style=&quot;margin-right: 10px;&quot;&gt;目录总数：&lt;label id=&quot;kjmlzs&quot;&gt;-&lt;/label&gt;&lt;/span&gt;
-                        &lt;a href=&quot;javascript:;&quot; style=&quot;font: 9pt;&quot; id=&quot;sutjbt2&quot;&gt;
-                            &lt;img src=&quot;http://zy.ys168.com/f_zy/tp/addml.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;增加目录&lt;/a&gt;
-                        &lt;a href=&#39;javascript:&#39; style=&quot;font: 9pt; margin-left: 10px; margin-right: 10px;&quot; onclick=&quot;if (confirm(&#39;是否刷新目录数据？&#39;))_ml.dq();&quot; class=&#39;a1&#39;&gt;
-                            &lt;img src=&quot;http://zy.ys168.com/f_zy/tp/refresh.gif&quot; style=&quot;vertical-align: middle;&quot; /&gt;刷新目录&lt;/a&gt;
-                    &lt;/p&gt;
-                    &lt;div style=&quot;margin-left: 10px;&quot; id=&quot;mfkjtz&quot;&gt;&lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div id=&quot;idsyjy&quot; style=&quot;padding: 5px;&quot;&gt;
-                    &lt;span id=&quot;gbtz&quot;&gt;&lt;/span&gt;
-                    &lt;span id=&quot;emyz&quot;&gt;&lt;/span&gt;
-                    &lt;span id=&quot;dqtz&quot;&gt;&lt;/span&gt;
-                    &lt;label id=&quot;laczts&quot;&gt;&lt;/label&gt;
-                &lt;/div&gt;
-                &lt;div id=&quot;buyh&quot; style=&quot;text-align: right; height: 30px; padding: 5px;&quot;&gt;
-                    &lt;span style=&#39;font-size: 9pt&#39;&gt;&lt;a href=&#39;http://www.ys168.com/eform/eform.aspx?wz=zhaowa.ys168.com&#39; target=&#39;_blank&#39;&gt;&lt;Font color=&#39;#000000&#39;&gt;[举报]&lt;/Font&gt;&lt;/a&gt;&lt;/span&gt;
-                    &lt;input type=&quot;button&quot; id=&quot;buzx&quot; value=&quot;在线列表&quot; /&gt;
-                    &lt;input type=&quot;button&quot; id=&quot;buxz&quot; value=&quot;下载记录&quot; /&gt;
-                    &lt;input type=&quot;button&quot; id=&quot;buexit&quot; value=&quot;退出系统&quot; /&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/td&gt;
-
-    &lt;/tr&gt;
-
-&lt;/table&gt;
-
-&lt;script src=&quot;http://zy.ys168.com/f_zy/js/jquery.js&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;http://zy.ys168.com/f_zy/js/ysck.js?bb=1136&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;http://zy.ys168.com/f_zy/js/ys168.js?bbh=1136&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-    window.onload = function () &#123;
-        //if (!_ck || !_lyb) &#123;
-        //    jljc(&quot;登录空间&quot;, &quot;&quot;);
-        //&#125;
-        jcgd(); _dqtx.jc();
-        if (!qdcx.ok &amp;&amp; frxcx.XMLHttp) &#123; qdcx.yx(); &#125;
-
-
-        //_ck.set(&quot;ck/xttz.html&quot;, &#123; w: 350, h: 170 &#125;).open();
-
-        //_AJ(&quot;qt.aspx?cz=Fhjb&quot;, function (r) &#123;
-        //    if (r == &quot;0&quot;) &#123;
-
-        //    &#125; else &#123;
-        //        _ck.set(&quot;ck/jb.html&quot;, &#123; w: 580, h: 500 &#125;).open(r);
-        //    &#125;
-        //&#125;);
-    &#125;;
-
-    window.onfocus = function () &#123;
-        _ev.cf(&quot;window.onfocus&quot;);
-    &#125;
-    //var sss = null;
-    //window.onresize = function () &#123;
-    //    if (sss) &#123; clearTimeout(sss); &#125;
-    //    sss = setTimeout(&quot;jcgd();&quot;, 100);
-    //&#125;;
-    $(window).resize(function () &#123; jcgd() &#125;);
-
-    function $id(rid) &#123; return document.getElementById(rid); &#125;
-    function qdhost() &#123; var x = document.domain.split(&quot;.&quot;); if (x.length == 1) return document.domain; if (x.length == 3) return x[1] + &quot;.&quot; + x[2]; return x[2] + &quot;.&quot; + x[3]; &#125;
-    function gbdm() &#123; if (_yh.gly) &#123; _C.kq(_CK.gbtz); &#125; else &#123; alert(&quot;请管理员在管理区登录后查看。&quot;); &#125; &#125;
-    function jcgd() &#123;
-        var d0 = document.documentElement.clientHeight;
-        var hnr = (d0 - $id(&quot;idtop&quot;).offsetHeight - 8);
-        $id(&quot;dzx&quot;).style.height = (hnr - $id(&quot;idsyjy&quot;).offsetHeight - 55) + &quot;px&quot;;
-        $id(&quot;lyz&quot;).style.height = (hnr - 174 - 10) + &quot;px&quot;;
-    &#125;
-    function jljc(lx, bz) &#123;
-        var ss = document.getElementsByTagName(&quot;script&quot;);
-        var ss_str = &quot;&quot;;
-        for (var i = 0; i &lt; ss.length; i++) &#123; if (ss[i].src != &quot;&quot;) &#123; ss_str += ss[i].src + &quot;&lt;br&gt;&quot;; &#125; &#125;
-        if (bz == &quot;&quot;) &#123;
-            if (ss_str.indexOf(&quot;_t=&quot;) &gt;= 0 || ss_str.indexOf(&quot;61.174.50.211&quot;) &gt;= 0) &#123; bz = &quot;被劫持&quot;; &#125; else &#123; bz = &quot;未正确加载&quot;;&#125;
-        &#125;
-        _AJ(&quot;qt.aspx?cz=Jiechi&amp;js=&quot; + jc_bm(ss_str) + &quot;&amp;lx=&quot; + jc_bm(lx) + &quot;&amp;bz=&quot; + jc_bm(bz), function (r) &#123; &#125;);
-    &#125;
-    var jc_bm = function (r) &#123; r = r.replace(/\+/g, &quot;%2B&quot;); r = r.replace(&quot; &quot;, &quot;,&quot;); return encodeURIComponent(r); &#125;
-
-    $(function () &#123;
-        $(&#39;#scbt4&#39;).on(&#39;input propertychange&#39;, function () &#123;
-            $id(&quot;shuru1&quot;).innerHTML = $id(&quot;scbt4&quot;).value.length;
-            if ($id(&quot;scbt4&quot;).value.length &gt; 50) &#123; $(&#39;#shuru1&#39;).css(&quot;color&quot;, &quot;red&quot;);  &#125; else &#123;  $(&#39;#shuru1&#39;).css(&quot;color&quot;, &quot;black&quot;);     &#125;;
-        &#125;);
-        $(&#39;#tewb&#39;).on(&#39;input propertychange&#39;, function () &#123;
-            $id(&quot;shuru2&quot;).innerHTML = $id(&quot;tewb&quot;).value.length;
-            if ($id(&quot;tewb&quot;).value.length &gt; 200) &#123; $(&#39;#shuru2&#39;).css(&quot;color&quot;, &quot;red&quot;);  &#125; else &#123;  $(&#39;#shuru2&#39;).css(&quot;color&quot;, &quot;black&quot;);     &#125;;
-        &#125;);
-        $(&#39;#scbt2&#39;).on(&#39;input propertychange&#39;, function () &#123;
-            $id(&quot;shuru3&quot;).innerHTML = $id(&quot;scbt2&quot;).value.length;
-            if ($id(&quot;scbt2&quot;).value.length &gt; 50) &#123; $(&#39;#shuru3&#39;).css(&quot;color&quot;, &quot;red&quot;); &#125; else &#123; $(&#39;#shuru3&#39;).css(&quot;color&quot;, &quot;black&quot;); &#125;;
-        &#125;);
-        $(&#39;#teljdz&#39;).on(&#39;input propertychange&#39;, function () &#123;
-            $id(&quot;shuru4&quot;).innerHTML = $id(&quot;teljdz&quot;).value.length;
-            if ($id(&quot;teljdz&quot;).value.length &gt; 200) &#123; $(&#39;#shuru4&#39;).css(&quot;color&quot;, &quot;red&quot;); &#125; else &#123; $(&#39;#shuru4&#39;).css(&quot;color&quot;, &quot;black&quot;); &#125;;
-        &#125;);
-    &#125;);
-    function gbgg() &#123;$(&#39;#idzdy1&#39;).hide();alert(&quot;广告只显示在免费空间内，升级后可去掉广告。&quot;); &#125;
-
- &lt;/script&gt;</code></pre>
-</body>
-</html>
+<h1 id="须知"><a href="#须知" class="headerlink" title="须知"></a>须知</h1><hr>
+<h3 id="解压密码请在公众号：勇敢的公爵"><a href="#解压密码请在公众号：勇敢的公爵" class="headerlink" title="解压密码请在公众号：勇敢的公爵"></a>解压密码请在公众号：<strong>勇敢的公爵</strong></h3><h4 id="回复：天美传媒"><a href="#回复：天美传媒" class="headerlink" title="回复：天美传媒"></a>回复：<strong>天美传媒</strong></h4><h3 id="解压密码请在公众号：勇敢的公爵-1"><a href="#解压密码请在公众号：勇敢的公爵-1" class="headerlink" title="解压密码请在公众号：勇敢的公爵"></a>解压密码请在公众号：<strong>勇敢的公爵</strong></h3><h4 id="回复：天美传媒-1"><a href="#回复：天美传媒-1" class="headerlink" title="回复：天美传媒"></a>回复：<strong>天美传媒</strong></h4><h3 id="解压密码请在公众号：勇敢的公爵-2"><a href="#解压密码请在公众号：勇敢的公爵-2" class="headerlink" title="解压密码请在公众号：勇敢的公爵"></a>解压密码请在公众号：<strong>勇敢的公爵</strong></h3><h4 id="回复：天美传媒-2"><a href="#回复：天美传媒-2" class="headerlink" title="回复：天美传媒"></a>回复：<strong>天美传媒</strong></h4><hr>
+<hr>
+<hr>
+<h1 id="烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可-无需关注或下载。（白嫖JJ短。）"><a href="#烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可-无需关注或下载。（白嫖JJ短。）" class="headerlink" title="烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可,无需关注或下载。（白嫖JJ短。）"></a>烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可,无需关注或下载。（白嫖JJ短。）</h1><hr>
+<hr>
+<h3 id="PMS001-EP4"><a href="#PMS001-EP4" class="headerlink" title="PMS001 EP4"></a>PMS001 EP4</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/PMS-EP4.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1Nb0CE2uvnkyLEHRaYeTnkQ">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PMS001-EP3"><a href="#PMS001-EP3" class="headerlink" title="PMS001 EP3"></a>PMS001 EP3</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/EP3.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1yMlYrbKdMFHg2gWbcNh4Iw">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PMS001-EP2"><a href="#PMS001-EP2" class="headerlink" title="PMS001 EP2"></a>PMS001 EP2</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/EP2.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1wqQGKNoVYO10BZJcTZgRMQ">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PMS001-EP1"><a href="#PMS001-EP1" class="headerlink" title="PMS001 EP1"></a>PMS001 EP1</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/EP1.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1acKyd-RPYmOA-T7JHErtxQ">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PMX002"><a href="#PMX002" class="headerlink" title="PMX002"></a>PMX002</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/MX002.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1jBjaZyz8IIiu0eg-ARHacg">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PMX001"><a href="#PMX001" class="headerlink" title="PMX001"></a>PMX001</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/MX001.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1TEv99q_0VjIJKsAkl_yQbg">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PM016"><a href="#PM016" class="headerlink" title="PM016"></a>PM016</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/PM16.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1conEBV9DTAZiVxBIXMCddA">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PM013"><a href="#PM013" class="headerlink" title="PM013"></a>PM013</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/013.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/16JMlShsAsylH2ofycwlrLw">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PM012"><a href="#PM012" class="headerlink" title="PM012"></a>PM012</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/012.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1EiXNZ-EtLlfObaL_ljvwbw">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PM011"><a href="#PM011" class="headerlink" title="PM011"></a>PM011</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/011.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1mSOZvErhbYBI9XN7AzW3jQ">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PM010"><a href="#PM010" class="headerlink" title="PM010"></a>PM010</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/0010.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/15e-OslnQzpGJyIz0ToR2WA">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h4 id="烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可-无需关注或下载。（白嫖JJ短。）-1"><a href="#烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可-无需关注或下载。（白嫖JJ短。）-1" class="headerlink" title="烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可,无需关注或下载。（白嫖JJ短。）"></a>烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可,无需关注或下载。（白嫖JJ短。）</h4><h3 id="PM009"><a href="#PM009" class="headerlink" title="PM009"></a>PM009</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/009.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1AIGtOcg-VH0fKxAQZQ0l5A">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PM008"><a href="#PM008" class="headerlink" title="PM008"></a>PM008</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/008.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1oKdkIO2_I0ztZHBflifLSw">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PM007"><a href="#PM007" class="headerlink" title="PM007"></a>PM007</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/007.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1bOweKk0Wl8GTD0ubd5fQMg">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PM006"><a href="#PM006" class="headerlink" title="PM006"></a>PM006</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/006503b99324790c3a2.png" alt="tm "></p>
+<p><a href="https://pan.baidu.com/s/1nx7lFYPu0B8CYKFi-kZxiw">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PM003"><a href="#PM003" class="headerlink" title="PM003"></a>PM003</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/00343119bc385ba16e0.png" alt="tm"></p>
+<p><a href="https://pan.baidu.com/s/1HBXn7S7vxX0YFoY7ZQ1IRA">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<hr>
+<h3 id="PM002"><a href="#PM002" class="headerlink" title="PM002"></a>PM002</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/002158f406e00af54c2.png" alt="tm"></p>
+<p><a href="https://pan.baidu.com/s/1NpwISKKuYYK4p8wgZePv0w">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<h3 id="PM001"><a href="#PM001" class="headerlink" title="PM001"></a>PM001</h3><p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="https://www.assdrty.com/images/2021/01/31/001035a156aa0feaaf7.png" alt="tm"></p>
+<p><a href="https://pan.baidu.com/s/1T-ydV_QgUhG6Nc0kqq9hNQ">百度网盘</a>  <strong>提取码：0321</strong></p>
+<hr>
+<hr>
+<hr>
+<h2 id="烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可-无需关注或下载。（白嫖JJ短。）-2"><a href="#烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可-无需关注或下载。（白嫖JJ短。）-2" class="headerlink" title="烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可,无需关注或下载。（白嫖JJ短。）"></a>烦请取资源的兄嘚点一下公众号文章最后的广告卡片。点一下退出即可,无需关注或下载。（白嫖JJ短。）</h2><p>😘 Enjoy~</p>
 ]]></content>
+      <categories>
+        <category>默认</category>
+      </categories>
+      <tags>
+        <tag>默认</tag>
+      </tags>
   </entry>
 </search>
