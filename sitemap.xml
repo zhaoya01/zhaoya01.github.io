@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zhaoya01.github.io.git/tags/index.html</loc>
+    <loc>https://zhaoya01.github.io.git/pengyouquan/index.html</loc>
     
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-01-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zhaoya01.github.io.git/pengyouquan/index.html</loc>
+    <loc>https://zhaoya01.github.io.git/tags/index.html</loc>
     
     <lastmod>2022-01-29</lastmod>
     
@@ -172,7 +172,7 @@
 
   <url>
     <loc>https://zhaoya01.github.io.git/</loc>
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-01-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -180,7 +180,7 @@
   
   <url>
     <loc>https://zhaoya01.github.io.git/tags/%E9%BB%98%E8%AE%A4/</loc>
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-01-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -189,7 +189,7 @@
   
   <url>
     <loc>https://zhaoya01.github.io.git/categories/%E9%BB%98%E8%AE%A4/</loc>
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-01-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
